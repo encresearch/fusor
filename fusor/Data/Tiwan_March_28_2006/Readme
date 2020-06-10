@@ -1,0 +1,12 @@
+About the Data
+Taiwan had a Earthquake of Magnitude 5.7 in March 28,2006 at 10:16 UT. This data consists of:
+1 Hour
+2 Height, km
+3 Latitude, degree
+4 Electron_density_Ne, m-3
+5 TEC, 10^16 m-2
+6 TEC_top, %
+7 foF2, MHz
+
+These all data are collected during the exact time when the earthquake occured for visualization and validation purpose. If the data matches
+or correlates with Dr.Cornley Slide Data, further data will be used for research Purpose.
